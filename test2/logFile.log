@@ -1,0 +1,10 @@
+Log code generated in: logFile.log
+Error at line: 4 -- Type: Multiple declaration of label: label
+Error at line: 5 -- Type: No such label / data variable
+Error at line: 6 -- Type: Invalid number
+Error at line: 7 -- Type: Invalid OPCode-Syntax combination
+Error at line: 8 -- Type: Invalid OPCode-Syntax combination
+Error at line: 9 -- Type: Invalid OPCode-Syntax combination
+Error at line: 10 -- Type: Invalid label name
+Error at line: 11 -- Type: Invalid Mnemonic
+Error at line: 12 -- Type: Invalid Mnemonic
